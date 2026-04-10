@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "科研/纳米无人机系统辨识研究.md",
+                "file": "同步/win.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "纳米无人机系统辨识研究"
+              "title": "win"
             }
           }
         ],
@@ -256,8 +256,11 @@
   },
   "active": "69d959cfa8f6e322",
   "lastOpenFiles": [
-    "科研/具体改进思路.md",
+    "降维.md",
+    "同步/win.md",
+    "同步",
     "科研/纳米无人机系统辨识研究.md",
+    "科研/具体改进思路.md",
     "科研/auxhead.md",
     "科研/LOSS.md",
     "科研/gru.md",
@@ -266,7 +269,6 @@
     "科研/方向.md",
     "科研/附件/Pasted image 20260408222757.png",
     "科研/附件/Pasted image 20260408222558.png",
-    "降维.md",
     "T/transformer 推理.md",
     "T/transformer 数据流训练 别在init里步入.md",
     "学/推荐.md",
